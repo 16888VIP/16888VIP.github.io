@@ -163,7 +163,7 @@ I think you should use an
 ```
 I think you should use an
 `<addr>` element here instead.
-# 桌子
+# 表格
 ```
 First Header | Second Header
 ------------ | -------------
