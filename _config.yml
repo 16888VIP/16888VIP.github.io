@@ -1,11 +1,11 @@
 # Site settings
 title: ZM Blog
-SEOTitle: 展铭的博客 | ZM Blog
+SEOTitle: 我的博客 | MY Blog
 header-img: img/touxiang.png
-email: meizhanming685@gmail.com
+email: 
 description: "Every failure is leading towards success."
-keyword: "ZM, ZM Blog, 展铭的博客, Jason81jm, 梅展铭, iOS, Apple, iPhone"
-url: "http://Jason81jm.github.io"          # your host, for absolute URL
+keyword: "MY, MY Blog, 我的博客, iOS, Apple, iPhone"
+url: "http://VIP.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/16888VIP/VIP.github.io.git" # you code repository
 
